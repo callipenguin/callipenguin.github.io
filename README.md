@@ -6,3 +6,4 @@
 - *Sleeping time is necessary
 - *Making IDEA is not easy stuff
 - sorry
+- 21_03_08 : decided project theme, solve one algorithm problem
