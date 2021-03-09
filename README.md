@@ -7,3 +7,4 @@
 - *Making IDEA is not easy stuff
 - sorry
 - 21_03_08 : decided project theme, solve one algorithm problem
+- 21-03-09 : finally I solved one problem today
